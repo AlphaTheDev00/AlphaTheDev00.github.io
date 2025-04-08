@@ -15,7 +15,7 @@ Check out my portfolio in action:
 - 🎓 General Assembly Bootcamp Graduate (2025)
 - 💼 Former UI Designer & Web Integrator
 - 💡 Passionate about clean code, intuitive UX, and creative problem-solving
-- 🌍 Based in Scotland, originally from Morocco
+- 🌍 Based in Scotland, 
 - ⚡ I thrive on collaboration, continuous learning, and coffee ☕️
 
 ---
