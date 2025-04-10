@@ -6,7 +6,7 @@ Hi there! I'm **Yassine Chikar**, a Full-Stack Software Engineer with a creative
 
 📍 **Live Site**  
 Explore my portfolio live:  
-👉 [https://alphathedev00.github.io/](https://alphathedev00.github.io/)
+👉 [https://yassinechportfolio.netlify.app/](https://yassinechportfolio.netlify.app/)
 
 ---
 
