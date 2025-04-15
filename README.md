@@ -62,7 +62,7 @@ Explore my portfolio live:
 ## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/yassinechikar)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:yassine.chikar@outlook.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:yassine.c.chikar@gmail.com)
 
 ---
 
