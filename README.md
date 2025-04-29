@@ -12,7 +12,7 @@ Explore my portfolio live:
 
 ## 🔎 About Me
 
-- 🎓 Graduate of General Assembly’s Software Engineering Immersive (2025)
+- 🎓 Graduate of General Assembly's Software Engineering Immersive (2025)
 - 💼 Former UI Designer & Web Integrator with 7+ years in creative industries
 - 🧠 Passionate about clean code, intuitive interfaces, and solving real-world problems
 - 🌍 Based in Scotland 
@@ -53,17 +53,18 @@ Explore my portfolio live:
 
 | Project        | Stack                            | Description                                                                 |
 |----------------|----------------------------------|-----------------------------------------------------------------------------|
+| **SnapRecipe** | Next.js, TypeScript, Google Gemini AI | AI-powered recipe generator that creates recipes from photos of ingredients |
 | **Savora**     | Django REST, React, PostgreSQL   | Full-stack recipe-sharing app with CRUD, user auth, Cloudinary image upload |
 | **Heropedia**  | MongoDB, Express, EJS            | Superhero CRUD encyclopedia with themed UI and interactive features         |
 | **Spotify Clone** | MERN Stack                    | Auth-enabled music app with custom playlist management and media preview    |
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/yassinechikar)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:yassine.c.chikar@gmail.com)
 
 ---
 
-> Thanks for stopping by! I'm always open to collaboration, learning, and new opportunities. Let’s build something awesome together. 🚀
+> Thanks for stopping by! I'm always open to collaboration, learning, and new opportunities. Let's build something awesome together. 🚀
